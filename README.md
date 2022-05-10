@@ -1,5 +1,11 @@
 ### Hi there 👋
+Hello, I'm Lun Quan (全伦), and I'm currently pursuing my Ph.D in Robotics under the supervision of [Chao Xu](http://zju-fast.com/research-group/chao-xu/) and [Fei Gao](http://zju-fast.com/research-group/fei-gao/), at [FAST Lab](http://zju-fast.com/) from Zhejiang University, China.
 
+- 🔭 I’m currently working on:
+    - Distributed Systems;
+    - Swarm Intelligence;
+    - Decentralized Planning for aerial swarm robotics.
+- 📫 How to reach me: lunquan@zju.edu.cn
 <!--
 **SamuraiChamploo/SamuraiChamploo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
