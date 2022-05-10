@@ -1,5 +1,5 @@
 ### Hi there 👋
-Hello, I'm Lun Quan (全伦), and I'm currently pursuing my Ph.D in Robotics under the supervision of [Chao Xu](http://zju-fast.com/research-group/chao-xu/) and [Fei Gao](http://zju-fast.com/research-group/fei-gao/), at [FAST Lab](http://zju-fast.com/) from Zhejiang University, China.
+Hello, I'm Lun Quan (全伦), and I'm currently pursuing my Ph.D in Robotics with the support of [Chao Xu](http://zju-fast.com/research-group/chao-xu/) and [Fei Gao](http://zju-fast.com/research-group/fei-gao/), at [FAST Lab](http://zju-fast.com/) from Zhejiang University, China.
 
 - 🔭 I’m currently working on:
     - Distributed Systems;
