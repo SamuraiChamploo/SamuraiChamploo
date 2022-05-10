@@ -5,7 +5,10 @@ Hello, I'm Lun Quan (全伦), and I'm currently pursuing my Ph.D in Robotics wit
     - Distributed Systems;
     - Swarm Intelligence;
     - Decentralized Planning for aerial swarm robotics.
-- 📫 How to reach me: lunquan@zju.edu.cn
+- 📫 How to reach me: 
+    - [Google scholar](https://scholar.google.com.hk/citations?user=PNIk-DEAAAAJ&hl=zh-CN)
+    - [Home page](http://zju-fast.com/lun-quan/)
+    - Email: lunquan@zju.edu.cn
 <!--
 **SamuraiChamploo/SamuraiChamploo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
